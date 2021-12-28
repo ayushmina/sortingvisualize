@@ -1,0 +1,12 @@
+.VisualizerController
+{
+background-color:#000002;
+color:white;
+display:block;	
+align-items: stretch;
+font-family:"Lucida Console";
+border-bottom:5px solid black;
+/* box-shadow:10px 10px 10px grey; */
+width: 750px;
+
+}
